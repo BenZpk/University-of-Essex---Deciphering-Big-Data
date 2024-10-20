@@ -1,4 +1,4 @@
-# University of Essex - Deciphering Big Data e-Portfolio by Ben Zapka
+# University of Essex Online - Deciphering Big Data e-Portfolio by Ben Zapka
 
 ## Unit 1:
 Sarkar and Roychowdhury (2019) associate volume, velocity and variety to big data. They introduce data types in Python like lists, sets, strings, tuples and dictionaries which are all important when implementing big data architectures. Furthermore, the first collaborative discussion started. It considered advantages and disadvantages of the Internet of Things, which played an important role in the emergence of big data technologies as it introduced a magnitude of data sources with huge amounts of data.
